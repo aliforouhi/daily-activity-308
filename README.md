@@ -1,4 +1,4 @@
-# daily_update.p
+# daily_update.py
 import datetime
 import random
 
